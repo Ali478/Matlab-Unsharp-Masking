@@ -1,5 +1,5 @@
 # Matlab-Unsharp-Masking
-# Unsharp Masking
+# Using Matlab App Designer
 ![Screenshot from 2022-11-16 17-37-21](https://user-images.githubusercontent.com/54278016/202182778-6ec3a65c-126b-458c-a408-ea0c3b563928.png)
 
 
